@@ -1,0 +1,14 @@
+C:\Users\I novbe\Desktop\Logo\Logo.Core\bin\Debug\net6.0\Logo.Core.deps.json
+C:\Users\I novbe\Desktop\Logo\Logo.Core\bin\Debug\net6.0\Logo.Core.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Core\bin\Debug\net6.0\Logo.Core.pdb
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.AssemblyInfoInputs.cache
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.AssemblyInfo.cs
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.csproj.CoreCompileInputs.cache
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\refint\Logo.Core.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.pdb
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\ref\Logo.Core.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Core\bin\Debug\net6.0\Logo.Core.runtimeconfig.json
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.csproj.AssemblyReference.cache
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.genruntimeconfig.cache

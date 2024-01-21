@@ -1,0 +1,17 @@
+C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Business.deps.json
+C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Business.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Business.pdb
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.AssemblyInfoInputs.cache
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.AssemblyInfo.cs
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.csproj.CoreCompileInputs.cache
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\refint\Logo.Business.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.pdb
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\ref\Logo.Business.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Core.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Data.dll
+C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Data.pdb
+C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Core.pdb
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.csproj.AssemblyReference.cache
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.csproj.CopyComplete
