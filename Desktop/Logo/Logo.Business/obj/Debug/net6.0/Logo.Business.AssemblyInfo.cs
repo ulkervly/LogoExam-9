@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Logo.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471b6f3ced729a7bdd5256a00f564e18da7d763b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Logo.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Logo.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

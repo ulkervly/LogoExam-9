@@ -12,3 +12,4 @@ C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\ref\Logo.Core.dll
 C:\Users\I novbe\Desktop\Logo\Logo.Core\bin\Debug\net6.0\Logo.Core.runtimeconfig.json
 C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.csproj.AssemblyReference.cache
 C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.genruntimeconfig.cache
+C:\Users\I novbe\Desktop\Logo\Logo.Core\obj\Debug\net6.0\Logo.Core.sourcelink.json

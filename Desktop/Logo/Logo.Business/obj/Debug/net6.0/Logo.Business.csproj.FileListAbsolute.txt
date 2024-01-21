@@ -15,3 +15,4 @@ C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Data.pdb
 C:\Users\I novbe\Desktop\Logo\Logo.Business\bin\Debug\net6.0\Logo.Core.pdb
 C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.csproj.AssemblyReference.cache
 C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.csproj.CopyComplete
+C:\Users\I novbe\Desktop\Logo\Logo.Business\obj\Debug\net6.0\Logo.Business.sourcelink.json
