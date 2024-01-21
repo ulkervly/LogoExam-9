@@ -1,5 +1,7 @@
+using Logo.Business.ServiceRegistration;
 using Logo.Core.Models;
 using Logo.Data.DAL;
+using Logo.Data.ServiceRegistration;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -7,6 +9,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRepositories();
+builder.Services.AddServices();
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer("Server=DESKTOP-BBA44T6;Database=LogoExam;Trusted_Connection=True");
@@ -30,9 +34,9 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
-app.UseAuthorization();
 app.UseAuthentication();
+app.UseAuthorization();
+
 app.MapControllerRoute(
             name: "areas",
             pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"

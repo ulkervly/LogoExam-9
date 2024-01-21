@@ -81,6 +81,14 @@
       "PackagePath": "staticwebassets\\assets\\plugins\\jquery-1.10.2.js"
     },
     {
+      "Id": "C:\\Users\\I novbe\\Desktop\\Logo\\Logo.MVC\\wwwroot\\manage\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\manage\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\I novbe\\Desktop\\Logo\\Logo.MVC\\wwwroot\\manage\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\manage\\css\\sb-admin-2.min.css"
+    },
+    {
       "Id": "C:\\Users\\I novbe\\Desktop\\Logo\\Logo.MVC\\wwwroot\\manage\\js\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\manage\\js\\demo\\chart-area-demo.js"
     },

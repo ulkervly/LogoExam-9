@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Logo.MVC.Areas.AdminLoginViewModel
+namespace Logo.MVC.Areas.ViewModels
 {
     public class AdminLoginViewModel
     {

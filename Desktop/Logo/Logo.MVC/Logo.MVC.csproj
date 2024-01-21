@@ -18,8 +18,4 @@
     <ProjectReference Include="..\Logo.Business\Logo.Business.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\manage\Views\Shared\" />
-  </ItemGroup>
-
 </Project>
